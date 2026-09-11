@@ -2,7 +2,7 @@
 
 **2ºA · Curso 2026-2027**
 
-[Aquí voy dejando lo que hago en TDA]
+Aquí voy dejando lo que hago en TDA
 ---
 
 ## Índice
