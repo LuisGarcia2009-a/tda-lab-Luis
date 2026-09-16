@@ -17,5 +17,4 @@ Aparte de cocinar también me gusta escuchar todo tipo de música y salir con am
 He encontrado un repositorio en GitHub que tiene algunas recetas sencillas para cocinar en casa.
 https://github.com/Laurelai/recipehub
 
-<img width="707" height="434" alt="image" src="https://github.com/user-attachments/assets/45f355bf-5dc6-4781-b0eb-bd4a407dc7e0" />
 
