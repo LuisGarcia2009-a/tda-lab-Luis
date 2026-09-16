@@ -14,4 +14,8 @@ bastantes cosas pero lo mejor que se me da es los pescados como el bonito y el s
 ademas de la reposteria como bizcochos o magdalenas.
 Aparte de cocinar también me gusta escuchar todo tipo de música y salir con amigos.
 
-He encontrado un repositorio en GitHub que 
+He encontrado un repositorio en GitHub que tiene algunas recetas sencillas para cocinar en casa.
+https://github.com/Laurelai/recipehub
+
+<img width="707" height="434" alt="image" src="https://github.com/user-attachments/assets/45f355bf-5dc6-4781-b0eb-bd4a407dc7e0" />
+
