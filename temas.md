@@ -15,6 +15,6 @@ ademas de la reposteria como bizcochos o magdalenas.
 Aparte de cocinar también me gusta escuchar todo tipo de música y salir con amigos.
 
 He encontrado un repositorio en GitHub que tiene algunas recetas sencillas para cocinar en casa.
-https://github.com/Laurelai/recipehub
+[Cocina En Casa](https://github.com/Laurelai/recipehub)
 
 
