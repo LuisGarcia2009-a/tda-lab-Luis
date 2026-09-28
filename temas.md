@@ -26,9 +26,8 @@ en 2013 comenzo su carrera cuando fue seleccionada para participar en la NASA y 
 donde hizo la función de ingeniera de vuelo. También fue la primera mujer en salir completamente del campo magnético de la tierra 
 y también rompió el récord de ser la mujer en estar mas días fuera del espacio siendo un total de 329. [Su página en la Fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-christina-koch/?texto=trayectoria)
 
-![DESCRIPCIÓN CORTA](capturas/koch.jpg)
+![DESCRIPCIÓN CORTA](https://github.com/LuisGarcia2009-a/tda-lab-Luis/blob/main/capturas/koch.webp)
 
-Imagen: Autor, [PREMIOS PRINCESA](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-christina-koch/)
 
 ---
 
