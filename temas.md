@@ -37,12 +37,13 @@ y también rompió el récord de ser la mujer en estar mas días fuera del espac
 
 Ada Lovelace fue una escritora y matemática británica que nació en el año 1815. 
 Lovelace consiguió crear la maquina analítica reconociendo que los algoritmos tenían mas aplicaciones que solo las matemáticas. 
-Por ello, se considera que ella es la primera programadora de la historia aunque no haya fuentes escritas de eso. [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace). 
+Por elo, [Según esta pagina](https://es.wikipedia.org/wiki/Ada_Lovelace), Ada Lovelace fue la primera programadora de la historia, aunque no haya fuentes escritas de esto.
 El día de Ada Lovelace se celebra para reconocer el labor de las mujeres en el ámbito de las ciencias y se celebra el segundo martes de octubre. 
 
 
-![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
-*PIE DE FOTO. Imagen: EL AUTOR, [Wikimedia Commons](DIRECCIÓN DE LA PÁGINA DE LA IMAGEN)*
+![DESCRIPCIÓN CORTA](capturas/Ada.jpg) {: width="300"}
+
+Imagen: Autor: Margaret Sarah Carpenter, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace.jpg)*
 
 ---
 
