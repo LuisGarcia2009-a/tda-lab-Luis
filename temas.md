@@ -5,6 +5,7 @@
 Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
 algo que ha salido y tiene que ver con lo que estamos dando.
 
+---
 
 ### Mis Aficiones — 16/09
 
@@ -19,6 +20,8 @@ He encontrado un repositorio en GitHub que tiene algunas recetas sencillas para 
 
 <img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/c9e4bc92-d096-46a3-9d7f-4fad8a4b77b7" />
 
+---
+
 ### 28/09 · Premios Princesa de Asturias: Christina Koch
 
 Christina Koch fue premiada a los premios Princesa de Asturias de este año. Fue premiada con el premio a la concordia,
@@ -28,6 +31,18 @@ y también rompió el récord de ser la mujer en estar mas días fuera del espac
 
 ![DESCRIPCIÓN CORTA](https://github.com/LuisGarcia2009-a/tda-lab-Luis/blob/main/capturas/koch.jpg)
 
+---
+
+### 13/10 · Ada Lovelace
+
+Ada Lovelace fue una escritora y matemática británica que nació en el año 1815. 
+Lovelace consiguió crear la maquina analítica reconociendo que los algoritmos tenían mas aplicaciones que solo las matemáticas. 
+Por ello, se considera que ella es la primera programadora de la historia aunque no haya fuentes escritas de eso. [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace). 
+El día de Ada Lovelace se celebra para reconocer el labor de las mujeres en el ámbito de las ciencias y se celebra el segundo martes de octubre. 
+
+
+![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
+*PIE DE FOTO. Imagen: EL AUTOR, [Wikimedia Commons](DIRECCIÓN DE LA PÁGINA DE LA IMAGEN)*
 
 ---
 
