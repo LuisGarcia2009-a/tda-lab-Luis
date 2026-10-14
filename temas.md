@@ -18,7 +18,7 @@ Aparte de cocinar también me gusta escuchar todo tipo de música y salir con am
 He encontrado un repositorio en GitHub que tiene algunas recetas sencillas para cocinar en casa.
 [Cocina En Casa](https://github.com/Laurelai/recipehub)
 
-<img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/c9e4bc92-d096-46a3-9d7f-4fad8a4b77b7" />
+<img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/c9e4bc92-d096-46a3-9d7f-4fad8a4b77b7" /> {: width="300"}
 
 ---
 
@@ -29,7 +29,7 @@ en 2013 comenzo su carrera cuando fue seleccionada para participar en la NASA y 
 donde hizo la función de ingeniera de vuelo. También fue la primera mujer en salir completamente del campo magnético de la tierra 
 y también rompió el récord de ser la mujer en estar mas días fuera del espacio siendo un total de 329. [Su página en la Fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-christina-koch/?texto=trayectoria)
 
-![DESCRIPCIÓN CORTA](https://github.com/LuisGarcia2009-a/tda-lab-Luis/blob/main/capturas/koch.jpg)
+![DESCRIPCIÓN CORTA](https://github.com/LuisGarcia2009-a/tda-lab-Luis/blob/main/capturas/koch.jpg) {: width="300"}
 
 ---
 
